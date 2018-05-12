@@ -2,7 +2,7 @@
 
 [build]
 publish = "public"
-command = "hugo -b http://theagripineproject.com/"
+command = "hugo -b $PROD_URL"
 
 [context.production.environment]
 HUGO_VERSION = "0.40.3"

@@ -1,4 +1,4 @@
-baseURL = "http://theagripineproject.com/"
+#baseURL = "http://theagripineproject.com/"
 languageCode = "pt-pt"
 title = "The Agripine Project"
 theme = "minimal"
